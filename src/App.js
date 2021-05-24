@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          一起看一下electron 结合React 的初步尝试
         </a>
       </header>
     </div>
